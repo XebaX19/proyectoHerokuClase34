@@ -19,6 +19,6 @@ module.exports = {
         }
     },
     mongodb: {
-        connectTo: (database) => `mongodb+srv://XebaX:${env.DB_PASSWORD}@xebaxfree.6gtqe.mongodb.net/${database}?retryWrites=true&w=majority`,
+        connectTo: (database) => `mongodb+srv://XebaX:Seba--1988@xebaxfree.6gtqe.mongodb.net/${database}?retryWrites=true&w=majority`,
     }
 }
